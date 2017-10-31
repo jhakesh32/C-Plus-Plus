@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//make quene using a linked list
 struct node
 {
 	int val;
